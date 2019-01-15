@@ -12,13 +12,15 @@ Hi, my name is Raghav. This is my contribution being a part of TEAM ASTRAL that 
 <br/>
 <div align="center">
   <img src="https://github.com/gargraghav/Sensor-Data-Acquisition-System/blob/master/About%20CanSat/What%20is%20CanSat/Picture1.jpg"><br/>
+  <br/>
+  <br/>
   <img src="https://github.com/gargraghav/Sensor-Data-Acquisition-System/blob/master/About%20CanSat/What%20is%20CanSat/Picture6.JPG"><br>
 </div>
-
+<br/>
 ## Ground Station
 <br/>
 <div align="center"> 
-  # MATLAB
+  <h1>MATLAB<h1/>
 </div>
 <br/>
 <div align="center">

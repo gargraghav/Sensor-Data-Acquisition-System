@@ -11,23 +11,22 @@ Hi, my name is Raghav. This is my contribution being a part of TEAM ASTRAL that 
 * [Sponsors](https://github.com/gargraghav/Sensor-Data-Acquisition-System/blob/master/images/Sponsors.JPG)
 <br/>
 <div align="center">
-  <img src="https://github.com/gargraghav/Sensor-Data-Acquisition-System/blob/master/About%20CanSat/What%20is%20CanSat/Picture1.jpg"><br>
-</div>
-<br/>
-<div align="center">
-  <img src="https://github.com/gargraghav/Sensor-Data-Acquisition-System/blob/master/About%20CanSat/What%20is%20CanSat/Picture6.jpg"><br>
+  <img src="https://github.com/gargraghav/Sensor-Data-Acquisition-System/blob/master/About%20CanSat/What%20is%20CanSat/Picture1.jpg"><br/>
+  <img src="https://github.com/gargraghav/Sensor-Data-Acquisition-System/blob/master/About%20CanSat/What%20is%20CanSat/Picture6.JPG"><br>
 </div>
 
 ## Ground Station
 <br/>
-* [MATLAB]
+<div align="center"> 
+  # MATLAB
+</div>
 <br/>
 <div align="center">
   <img src="https://github.com/gargraghav/Sensor-Data-Acquisition-System/blob/master/MATLAB/Picture3.png"><br>
 </div>
-<br/>
-* [LabView]
-<br/>
+<div align="center"> 
+  # LABVIEW
+</div>
 <div align="center">
   <img src="https://github.com/gargraghav/Sensor-Data-Acquisition-System/blob/master/LabView/Picture2.png"><br>
 </div>

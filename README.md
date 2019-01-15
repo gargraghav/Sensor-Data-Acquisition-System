@@ -16,25 +16,24 @@ Hi, my name is Raghav. This is my contribution being a part of TEAM ASTRAL that 
   <br/>
   <img src="https://github.com/gargraghav/Sensor-Data-Acquisition-System/blob/master/About%20CanSat/What%20is%20CanSat/Picture6.JPG"><br>
 </div>
-<br/>
+
 ## Ground Station
 <br/>
 <div align="center"> 
-  <h1>MATLAB<h1/>
+  <h2>MATLAB<h2/>
 </div>
-<br/>
 <div align="center">
   <img src="https://github.com/gargraghav/Sensor-Data-Acquisition-System/blob/master/MATLAB/Picture3.png"><br>
 </div>
 <div align="center"> 
-  # LABVIEW
+  <h2>LABVIEW<h2/>
 </div>
 <div align="center">
   <img src="https://github.com/gargraghav/Sensor-Data-Acquisition-System/blob/master/LabView/Picture2.png"><br>
 </div>
 
 ## Result
-We won! We conquered! Bagged the <b>First place<b/> all over the world! Proud Moment!
+We won! We conquered! Bagged the <b>First place</b> all over the world! Proud Moment!
   <div align="center">
   <img src="https://github.com/gargraghav/Sensor-Data-Acquisition-System/blob/master/images/Result.JPG"><br>
 </div>
